@@ -174,7 +174,7 @@ a h5{
 /* =============Team Section============ */
 .ftyl{
     position: absolute;
-    left: 250px;
+    left: 15.5rem;
 }
 .ftyl-1{
     position: absolute;
@@ -186,26 +186,8 @@ a h5{
 }
 .ftyl-3{
     position: absolute;
-    left:69rem;
+    left:69.1rem;
 } 
-@media only screen and (min-width: 600px){
-    .ftyl{
-        position: absolute;
-        left: 250px;
-    }
-    .ftyl-1{
-        position: absolute;
-        left: 16.5rem;
-    }
-    .ftyl-2{
-        position: absolute;
-        left:16.5rem;
-    }
-    .ftyl-3{
-        position: absolute;
-        left:16.5rem;
-    }
-}
 @media only screen and (max-width: 600px){
     .ftyl{
         position: absolute;
